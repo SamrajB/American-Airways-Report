@@ -6,7 +6,7 @@ This project features an interactive **Tableau dashboard** analyzing customer re
 
 ## 📁 Project Details
 
-- **File Name:** `American Airways Reviews (1).twbx`
+- **File Name:** `American Airways Reviews.twbx`
 - **Tool Used:** Tableau Desktop
 - **Data Domain:** Airline customer reviews and feedback
 - **Goal:** Visualize sentiment trends, identify strengths/weaknesses in services, and present review insights clearly
